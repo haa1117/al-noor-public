@@ -1,0 +1,11 @@
+/analysis/
+/screenshots/
+/_run-logs/
+venv/
+.venv/
+node_modules/
+*.db
+*.sqlite*
+.env*
+__pycache__/
+.DS_Store
